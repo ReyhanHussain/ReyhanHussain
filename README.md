@@ -53,7 +53,7 @@ I'm always open to collaboration, mentorship, or just a good conversation about 
 **Email:** [Reyhanbgscet@outlook.com](mailto:Reyhanbgscet@outlook.com)  
 **LinkedIn:** [linkedin.com/in/reyhanhussain](https://linkedin.com/in/reyhanhussain)  
 **Twitter/X:** [x.com/reyhanhusain](https://x.com/reyhanhusain)  
-**Instagram:** [instagram.com/reyhanhusain](https://instagram.com/reyhanhusain)  
+**Instagram:** [instagram.com/reyhanhussain](https://instagram.com/reyhanhussain)  
 
 ---
 
