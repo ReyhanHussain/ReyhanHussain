@@ -1,6 +1,6 @@
 # Reyhan Hussain
 
-## Software Developer & Electronics Enthusiast
+## Aspiring Software Developer & Electronics Enthusiast
 
 ---
 
@@ -15,7 +15,6 @@ I'm currently immersing myself in C++ for Data Structures and Algorithms (DSA). 
 ### Skills
 
 **Programming Languages:**
-* Python (Primary focus)
 * C++ (Learning for DSA)
 
 **Web Development:**
@@ -44,8 +43,8 @@ I'm currently immersing myself in C++ for Data Structures and Algorithms (DSA). 
 
 When I'm not coding or soldering components, I enjoy:
 * Watching Documentaries.
-* Reading books on technology and innovation.
-
+* Reading books on technology and      innovation.
+*playing video games
 ### Let's Connect
 
 I'm always open to collaboration, mentorship, or just a good conversation about technology.
@@ -53,7 +52,6 @@ I'm always open to collaboration, mentorship, or just a good conversation about 
 **Email:** [Reyhanbgscet@outlook.com](mailto:Reyhanbgscet@outlook.com)  
 **LinkedIn:** [linkedin.com/in/reyhanhussain](https://linkedin.com/in/reyhanhussain)  
 **Twitter/X:** [x.com/reyhanhusain](https://x.com/reyhanhusain)  
-**Instagram:** [instagram.com/reyhanhussain](https://instagram.com/reyhanhussain)  
 
 ---
 
